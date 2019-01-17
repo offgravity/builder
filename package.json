@@ -1,5 +1,5 @@
 {
-  "name": "systemjs-builder",
+  "name": "offgravityjs-builder",
   "version": "0.16.13",
   "description": "SystemJS Build Tool",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "mkdirp": "^0.5.1",
     "rollup": "^0.58.2",
     "source-map": "^0.5.3",
-    "systemjs": "^0.19.46",
+    "offgravityjs": "^0.19.49",
     "traceur": "0.0.105",
     "uglify-js": "^2.6.1"
   },
